@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a> Astronomical Institute Tohoku University,
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: mez.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>555 your office number</p>
