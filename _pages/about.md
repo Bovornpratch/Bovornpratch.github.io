@@ -1,20 +1,20 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a> Astronomical Institute Tohoku University, Sendai, Japan
+subtitle: <a href='https://www.astr.tohoku.ac.jp/en/index.html'>Affiliations</a> Astronomical Institute Tohoku University, Sendai, Japan
 
 profile:
   align: right
   image: mez.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
-news: false  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+    <p> Room 405 Science Complex C </p>
+    <p> Tohoku University Aobayama Campus </p>
+    <p> Sendai, Japan </p>
+    
+news: true  # includes a list of news items
+selected_papers: False # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 dhsdfghsdfgdfsghfdgdfgsdfgsdfgsdfgsdfgsdfg
