@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.astr.tohoku.ac.jp/en/'>Affiliations</a> Astronomical Institute Tohoku University, Sendai, Japan
+subtitle: <a href='#'>Affiliations</a> Astronomical Institute Tohoku University, Sendai, Japan
 
 profile:
   align: right
