@@ -2,7 +2,6 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://www.astr.tohoku.ac.jp/en/index.html'>Affiliations</a> Astronomical Institute Tohoku University, Sendai, Japan
 
 profile:
   align: right
@@ -18,7 +17,7 @@ selected_papers: False # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-My name is Bovornpratch Vijarnwannaluk (nickname: Klod). I am a PhD. student at the astronomical institute Tohoku University in Japan. Origianlly, I am from Bangkok where I did my undergraduate at the department of physics Chulalongkorn University.
+My name is Bovornpratch Vijarnwannaluk (nickname: Klod). I am a PhD. student at the <a href='https://www.astr.tohoku.ac.jp/en/index.html'> Astronomical Institute</a> Tohoku University in Japan. Origianlly, I am from Bangkok where I did my undergraduate at the department of physics Chulalongkorn University.
 
 My research is focused on investigating the cosmological evolution of Active Galactic Nuclei (AGN) using large and deep X-ray datasets combined with deep optical and infrared imaging dataset. Of particluar interest is investigating the evolution of the fraction of the obscured AGN and the connection to the host galaxy properties. Recently, I am interested in studying the role of AGNs in galaxy evolution at moderate redshift using X-ray and radio datsets. Check out the research page for more details.
 

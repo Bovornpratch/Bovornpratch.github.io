@@ -2,10 +2,11 @@
 layout: page
 title: Resources
 permalink: /Resources/
-description: Additional Resources Compiled
+description: These are some usefull stuff I have collected along my PhD.
 img: assets/img/3.jpg
-importance: 2
-nav: false
+importance: 8
+nav_order: 3
+nav: true
 category: work
 ---
 

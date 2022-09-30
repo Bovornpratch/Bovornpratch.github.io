@@ -3,6 +3,7 @@ layout: page
 title: Research
 description: My Research interest
 img: assets/img/3.jpg
+nav_order: 1
 importance: 2
 nav: true
 category: work
