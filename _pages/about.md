@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: mez.jpg
+  image: Full.jpeg
   image_circular: false # crops the image to make it circular
   address: >
     <p> Room 405 Science Complex C </p>
