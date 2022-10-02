@@ -1,82 +1,30 @@
 ---
 layout: page
 title: Research
-description: My Research interest
-img: assets/img/3.jpg
+description: Active Galactic Nuclei, Supermassive Black Holes, and Galaxy Evolution
 nav_order: 1
 importance: 2
 nav: true
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+My research is focused on Active Galactic Nuclei (AGN) and supermassive blackholes (SMBH). It is currently well accepted that SMBHs resided ubiquitously in the nuclear regions of most massive galaxies and when SMBH are in a phase rapid accretion growth, they are called AGN. It is believed that AGNs may play an important role in moderating star formation in galaxies.  Both objects represent an important part of our understanding of the physics of black hole growth and galaxy evolution. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Here I summarize the research I have done.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+<h3>The Obscured Fraction of Luminous Quasars at Cosmic Noon</h3>
+<h6> <a href="https://arxiv.org/abs/2209.07797">Vijarnwannaluk et al. 2022</a> </h6>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+In this project, we examined the fraction of obscured AGN during the peak era of accretion growth (z~2). There is a trend in which the fraction of obscured AGN increases with redshift but the fraction is not well determined for luminous high redshift AGN. In this project, we used deep and wide X-ray datasets combined with deep optical and infrared datasets to search for the host galaxy of X-ray sources and estimate their redshift. 
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
+By using a sample of 306 AGN at z>2, we determined that 76% of luminous high redshift AGN are obscured suggesting that a large fraction of accretion growth occurs under obscuration. We also investigate the spectral energy distribution of unobscured and obscured AGN. We found that both unobscured and obscured AGN show a variety of shapes which may reflect the broad variety of host galaxy properties and physical processes associated with the obscuration
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-12 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/sed_compare_NH.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    The spectral energy distribution of X-ray obscured and unobscured AGN compared with empirical models.
 </div>
 
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
