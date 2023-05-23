@@ -46,7 +46,7 @@
   type: time_table
   contents:
     - year: 2023
-	items :
+      items :
         - 9th Galaxy Evolution Workshop 2023, "The Population of Luminous Obscured Quasars at Cosmic Noon Unveiled with Deep and Wide Multiwavelength Survey" Feb 20th-23rd 2023, Oral
     - year: 2022
       items: 
@@ -62,7 +62,7 @@
   type: time_table
   contents:
     - year: 2023
-        items :
+      items :
         - AHEAD 2020 Cycle 5 Trans-national access to X-ray data analysis 
         - Tohoku Development Memorial Foundation for research visit
     - year: 2022
