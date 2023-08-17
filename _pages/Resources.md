@@ -10,5 +10,6 @@ nav: true
 category: work
 ---
 
-
-Still to be constructed and slowly populated
+<h3>Research Data</h3>
+Public data products from my research can be found in this repository. 
+<h6> <a href="https://www.astr.tohoku.ac.jp/~bovornpratch.v/">data repository</a> </h6>
