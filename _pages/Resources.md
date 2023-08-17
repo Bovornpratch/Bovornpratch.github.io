@@ -10,17 +10,14 @@ nav: true
 category: work
 ---
 
-<div class="container">
-  <h1>Research Data</h1>
-  <p>Public data products from my research can be found in this</p>
-</div> 
-
-<div class="container px-lg-5">
-	<div class="p-4 p-lg-5 bg-light rounded-3 text-center">
-         	<div class="m-4 m-lg-5">
-                 	<h1 class="display-5 fw-bold">Welcome to My Data Repository!</h1>
-                        <p class="fs-4">Please select the project you are interested in the sections below.</p>
-                        <a class="btn btn-primary btn-lg" href="#!">Call to action</a>
-                    </div>
-                </div>
-            </div>
+<header class="py-5">
+    <div class="container px-xl-5">
+        <div class="p-4 p-lg-5 rounded-3 text-center">
+            <div class="m-4 m-lg-5">
+                <h1 class="display-5 fw-bold">Data Repository</h1>
+                <p class="fs-4">Public Datasets from my research can be found here</p>
+                <a class="btn btn-primary btn-lg" href="https://www.astr.tohoku.ac.jp/~bovornpratch.v/">Go to Repository</a>
+             </div>
+         </div>
+    </div>
+</header>
