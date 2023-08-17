@@ -10,5 +10,7 @@ nav: true
 category: work
 ---
 
-<h3>Research Data</h3>
-Public data products from my research can be found in this <a href='https://www.astr.tohoku.ac.jp/~bovornpratch.v/'>repository</a>.
+<div class="container">
+  <h1>Research Data</h1>
+  <p>Public data products from my research can be found in this</p>
+</div> 
