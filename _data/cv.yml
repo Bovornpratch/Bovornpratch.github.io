@@ -4,19 +4,21 @@
     - name: Full Name
       value: Bovornpratch "Klod" Vijarnwannaluk
     - name: Current Position 
-      value: PhD. Student 
+      value: Post-Doc 
     - name: Affilation
-      value: Astronomical Institute, Tohoku University
+      value: Academia Sinica Institute of Astronomy and Astrophysics (ASIAA)
     - name: E-mail
-      value: bovornpratch.v@astr.tohoku.ac.jp
+      value: bkvijarnwannaluk@asiaa.sinica.edu.tw
 
 - title: Education
   type: time_table
   contents:
+    - title: Doctor of Philosophy (Astronomy)
+      institution: Astronomical Institute, Tohoku University
+      year: 2023
     - title: Master of Science (Astronomy)
       institution: Astronomical Institute, Tohoku University
       year: 2022
-
     - title: Bachelor of Science (Physics), Second Honors
       institution: Department of Physics, Chulalongkorn University
       year: 2017
@@ -33,9 +35,12 @@
 - title: Professional Experience
   type: time_table
   contents:
+    - title: Post-Doc
+      institution: ASIAA
+      year: 2023-Present
     - title: PhD. Candidate
       institution: Astronomical Institute Tohoku University
-      year: 2018-Present
+      year: 2018-2023
 
     - title: Research Assistant
       institution: National Astronomical Reasearch Institute of Thailand
