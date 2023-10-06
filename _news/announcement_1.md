@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-09-30 15:59:00-0400
+date: 2023-10-2 15:59:00-0400
 inline: true
 ---
 
-I opened a website woooohoooooo!
+Got my PhD., Starting post-doc at ASIAA.
